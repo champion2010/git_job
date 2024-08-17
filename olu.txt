@@ -1,3 +1,7 @@
 my name is mike
+<<<<<<< HEAD
 because you are beautiful
 thank you
+=======
+i appreciate you
+>>>>>>> fixit
