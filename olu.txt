@@ -5,4 +5,9 @@ thank you
 =======
 i appreciate you
 >>>>>>> fixit
+<<<<<<< HEAD
 add something
+=======
+where are you going 
+stay in a place and learn
+>>>>>>> origin/master
